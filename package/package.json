@@ -1,6 +1,6 @@
 {
   "name": "@elemental-concept/oid",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Adds unique IDs to objects",
   "author": "Elemental Concept",
   "homepage": "https://github.com/elementalconcept/oid#readme",
