@@ -1,0 +1,18 @@
+{
+  "name": "@elemental-concept/oid",
+  "version": "0.0.0",
+  "description": "Adds unique IDs to objects",
+  "author": "Elemental Concept",
+  "homepage": "https://github.com/elementalconcept/oid#readme",
+  "license": "BSD-2-Clause",
+  "main": "./umd-es5/index.js",
+  "module": "./esm-es5/index.js",
+  "es2015": "./esm-es2015/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elementalconcept/oid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elementalconcept/oid/issues"
+  }
+}
