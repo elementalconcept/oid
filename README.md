@@ -4,6 +4,9 @@ A simple utility function which generates and attaches unique IDs to JavaScript 
 Such IDs can be used in change detection algorithms or for dependency management
 when class/object names are unreliable, such as JS apps after minification.
 
+[![npm version](https://badge.fury.io/js/%40elemental-concept%2Foid.svg)](https://badge.fury.io/js/%40elemental-concept%2Foid)
+[![Build Status](https://travis-ci.org/elementalconcept/oid.svg?branch=master)](https://travis-ci.org/elementalconcept/oid)
+
 ## Installation
 
 npm users should run:
