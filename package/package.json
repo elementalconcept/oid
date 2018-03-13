@@ -8,6 +8,7 @@
   "main": "./umd-es5/index.js",
   "module": "./esm-es5/index.js",
   "es2015": "./esm-es2015/index.js",
+  "typings": "./dts/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/elementalconcept/oid.git"
